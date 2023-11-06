@@ -1,2 +1,2 @@
 # ttw_practice
-Activity from Book Dashboard Nov 2023
+Activity from The Turing Way Book Dashboard Nov 2023
